@@ -7,6 +7,14 @@
 
 ## 效果预览
 
+### 早盘简报（Morning Brief）
+
+<img src="examples/brief_morning.png" width="600" alt="早盘简报示例">
+
+### 收盘总结（Closing Brief）
+
+<img src="examples/brief_closing.png" width="600" alt="收盘简报示例">
+
 生成的简报是一张报纸风格的 PNG 图片，包含：
 
 - 市场数据面板（指数、北向资金、板块涨跌、汇率商品）
