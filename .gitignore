@@ -1,0 +1,7 @@
+history/
+output/
+__pycache__/
+*.pyc
+.DS_Store
+*.png
+*.html
